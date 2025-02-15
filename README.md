@@ -1,4 +1,4 @@
-星智智 AI 聊天机器人 （XingZhi AI Chatbot）
+星智 AI 聊天机器人 （XingZhi AI Chatbot）
 （中文 | [English](README_en.md)）
 
 
